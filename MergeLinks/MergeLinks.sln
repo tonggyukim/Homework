@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLinks", "MergeLinks\MergeLinks.csproj", "{8AE445A7-7B49-4418-B28F-8C52E74139FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE445A7-7B49-4418-B28F-8C52E74139FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE445A7-7B49-4418-B28F-8C52E74139FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE445A7-7B49-4418-B28F-8C52E74139FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE445A7-7B49-4418-B28F-8C52E74139FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CE443628-D6D0-45DC-BD4F-EB697F47945C}|Default">
+  <MonoDevelop.Ide.ItemProperties.PostFixPreFix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PostFixPreFix" expanded="True">
+            <Node name="PostFixPreFix" expanded="True">
+              <Node name="testclass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

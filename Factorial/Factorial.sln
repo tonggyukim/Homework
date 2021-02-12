@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{CF10D946-5B98-4E7E-8C66-05F9BE3A5B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF10D946-5B98-4E7E-8C66-05F9BE3A5B79}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CF10D946-5B98-4E7E-8C66-05F9BE3A5B79}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CF10D946-5B98-4E7E-8C66-05F9BE3A5B79}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CF10D946-5B98-4E7E-8C66-05F9BE3A5B79}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

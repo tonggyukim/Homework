@@ -1,0 +1,5 @@
+/Users/davidkim/Projects/Hello/Hello/bin/Debug/Hello.exe
+/Users/davidkim/Projects/Hello/Hello/bin/Debug/Hello.pdb
+/Users/davidkim/Projects/Hello/Hello/obj/Debug/Hello.exe
+/Users/davidkim/Projects/Hello/Hello/obj/Debug/Hello.pdb
+/Users/davidkim/Projects/Hello/Hello/obj/Debug/Hello.csprojAssemblyReference.cache

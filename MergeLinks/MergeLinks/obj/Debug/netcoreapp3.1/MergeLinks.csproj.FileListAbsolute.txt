@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/MergeLinks/MergeLinks/bin/Debug/netcoreapp3.1/MergeLinks.deps.json
+/Users/davidkim/Projects/MergeLinks/MergeLinks/bin/Debug/netcoreapp3.1/MergeLinks.runtimeconfig.json
+/Users/davidkim/Projects/MergeLinks/MergeLinks/bin/Debug/netcoreapp3.1/MergeLinks.runtimeconfig.dev.json
+/Users/davidkim/Projects/MergeLinks/MergeLinks/bin/Debug/netcoreapp3.1/MergeLinks.dll
+/Users/davidkim/Projects/MergeLinks/MergeLinks/bin/Debug/netcoreapp3.1/MergeLinks.pdb
+/Users/davidkim/Projects/MergeLinks/MergeLinks/obj/Debug/netcoreapp3.1/MergeLinks.csprojAssemblyReference.cache
+/Users/davidkim/Projects/MergeLinks/MergeLinks/obj/Debug/netcoreapp3.1/MergeLinks.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/MergeLinks/MergeLinks/obj/Debug/netcoreapp3.1/MergeLinks.AssemblyInfo.cs
+/Users/davidkim/Projects/MergeLinks/MergeLinks/obj/Debug/netcoreapp3.1/MergeLinks.dll
+/Users/davidkim/Projects/MergeLinks/MergeLinks/obj/Debug/netcoreapp3.1/MergeLinks.pdb
+/Users/davidkim/Projects/MergeLinks/MergeLinks/obj/Debug/netcoreapp3.1/MergeLinks.genruntimeconfig.cache

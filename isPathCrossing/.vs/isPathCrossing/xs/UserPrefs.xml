@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7A6E39BD-A1FC-4BE7-891F-9DD7A377809F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="isPathCrossing/Program.cs">
+    <Files>
+      <File FileName="isPathCrossing/Program.cs" Line="36" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="isPathCrossing" expanded="True">
+            <Node name="isPathCrossing" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.isPathCrossing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

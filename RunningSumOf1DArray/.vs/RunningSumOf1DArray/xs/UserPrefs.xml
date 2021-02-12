@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A3D82F03-8E4B-4315-9686-7A815F6169F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunningSumOf1DArray/Program.cs">
+    <Files>
+      <File FileName="RunningSumOf1DArray/Program.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RunningSumOf1DArray" expanded="True">
+            <Node name="RunningSumOf1DArray" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RunningSumOf1DArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

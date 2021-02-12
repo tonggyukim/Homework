@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/Hello-world2/Hello-world2/bin/Debug/netcoreapp3.1/Hello-world2
+/Users/davidkim/Projects/Hello-world2/Hello-world2/bin/Debug/netcoreapp3.1/Hello-world2.deps.json
+/Users/davidkim/Projects/Hello-world2/Hello-world2/bin/Debug/netcoreapp3.1/Hello-world2.runtimeconfig.json
+/Users/davidkim/Projects/Hello-world2/Hello-world2/bin/Debug/netcoreapp3.1/Hello-world2.runtimeconfig.dev.json
+/Users/davidkim/Projects/Hello-world2/Hello-world2/bin/Debug/netcoreapp3.1/Hello-world2.dll
+/Users/davidkim/Projects/Hello-world2/Hello-world2/bin/Debug/netcoreapp3.1/Hello-world2.pdb
+/Users/davidkim/Projects/Hello-world2/Hello-world2/obj/Debug/netcoreapp3.1/Hello-world2.csprojAssemblyReference.cache
+/Users/davidkim/Projects/Hello-world2/Hello-world2/obj/Debug/netcoreapp3.1/Hello-world2.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/Hello-world2/Hello-world2/obj/Debug/netcoreapp3.1/Hello-world2.AssemblyInfo.cs
+/Users/davidkim/Projects/Hello-world2/Hello-world2/obj/Debug/netcoreapp3.1/Hello-world2.dll
+/Users/davidkim/Projects/Hello-world2/Hello-world2/obj/Debug/netcoreapp3.1/Hello-world2.pdb

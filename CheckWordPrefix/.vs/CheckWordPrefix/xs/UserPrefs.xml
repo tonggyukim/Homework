@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{274EAB5D-FFF9-41D7-A4E6-7D103A7C8E1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckWordPrefix/Program.cs">
+    <Files>
+      <File FileName="CheckWordPrefix/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckWordPrefix" expanded="True">
+            <Node name="CheckWordPrefix" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CheckWordPrefix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

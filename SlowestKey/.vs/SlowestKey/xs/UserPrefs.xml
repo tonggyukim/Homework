@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1A7727D1-5048-4A82-B5F9-928435C79002}|Default">
+  <MonoDevelop.Ide.ItemProperties.SlowestKey FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SlowestKey/Program.cs">
+    <Files>
+      <File FileName="SlowestKey/Program.cs" Line="20" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectLoopLinkedList", "DetectLoopLinkedList\DetectLoopLinkedList.csproj", "{D536D135-C871-4332-8124-12CEFD22344C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D536D135-C871-4332-8124-12CEFD22344C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D536D135-C871-4332-8124-12CEFD22344C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D536D135-C871-4332-8124-12CEFD22344C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D536D135-C871-4332-8124-12CEFD22344C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

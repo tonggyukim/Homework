@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8AE445A7-7B49-4418-B28F-8C52E74139FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.MergeLinks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MergeLinks/Program.cs">
+    <Files>
+      <File FileName="MergeLinks/Program.cs" Line="50" Column="14" />
+      <File FileName="../SumOfNodes/SumOfNodes/Program.cs" Line="57" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MergeLinks" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

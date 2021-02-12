@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate
+/Users/davidkim/Projects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.deps.json
+/Users/davidkim/Projects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.json
+/Users/davidkim/Projects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.dev.json
+/Users/davidkim/Projects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.dll
+/Users/davidkim/Projects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.pdb
+/Users/davidkim/Projects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.csprojAssemblyReference.cache
+/Users/davidkim/Projects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfo.cs
+/Users/davidkim/Projects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.dll
+/Users/davidkim/Projects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.pdb

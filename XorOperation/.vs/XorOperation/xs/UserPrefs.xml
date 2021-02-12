@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5F598517-ED01-4F1B-BA68-9C6F43BA1D13}|Default">
+  <MonoDevelop.Ide.ItemProperties.XorOperation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XorOperation/Program.cs">
+    <Files>
+      <File FileName="XorOperation/Program.cs" Line="38" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XorOperation" expanded="True">
+            <Node name="XorOperation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

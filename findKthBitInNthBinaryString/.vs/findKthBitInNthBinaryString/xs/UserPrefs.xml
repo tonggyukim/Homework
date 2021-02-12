@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6D7B0A0F-9C1F-4D4F-9C95-DB9E058FACF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="findKthBitInNthBinaryString/Program.cs">
+    <Files>
+      <File FileName="findKthBitInNthBinaryString/Program.cs" Line="62" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="findKthBitInNthBinaryString" expanded="True">
+            <Node name="findKthBitInNthBinaryString" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.findKthBitInNthBinaryString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

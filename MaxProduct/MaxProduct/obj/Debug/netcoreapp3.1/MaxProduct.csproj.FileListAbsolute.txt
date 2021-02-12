@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/MaxProduct/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct
+/Users/davidkim/Projects/MaxProduct/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.deps.json
+/Users/davidkim/Projects/MaxProduct/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.runtimeconfig.json
+/Users/davidkim/Projects/MaxProduct/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.runtimeconfig.dev.json
+/Users/davidkim/Projects/MaxProduct/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.dll
+/Users/davidkim/Projects/MaxProduct/MaxProduct/bin/Debug/netcoreapp3.1/MaxProduct.pdb
+/Users/davidkim/Projects/MaxProduct/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.csprojAssemblyReference.cache
+/Users/davidkim/Projects/MaxProduct/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/MaxProduct/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.AssemblyInfo.cs
+/Users/davidkim/Projects/MaxProduct/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.dll
+/Users/davidkim/Projects/MaxProduct/MaxProduct/obj/Debug/netcoreapp3.1/MaxProduct.pdb

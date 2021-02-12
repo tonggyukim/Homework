@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/bin/Debug/netcoreapp3.1/GetMaxInGeneratedArray.deps.json
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/bin/Debug/netcoreapp3.1/GetMaxInGeneratedArray.runtimeconfig.json
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/bin/Debug/netcoreapp3.1/GetMaxInGeneratedArray.runtimeconfig.dev.json
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/bin/Debug/netcoreapp3.1/GetMaxInGeneratedArray.dll
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/bin/Debug/netcoreapp3.1/GetMaxInGeneratedArray.pdb
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/obj/Debug/netcoreapp3.1/GetMaxInGeneratedArray.csprojAssemblyReference.cache
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/obj/Debug/netcoreapp3.1/GetMaxInGeneratedArray.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/obj/Debug/netcoreapp3.1/GetMaxInGeneratedArray.AssemblyInfo.cs
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/obj/Debug/netcoreapp3.1/GetMaxInGeneratedArray.dll
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/obj/Debug/netcoreapp3.1/GetMaxInGeneratedArray.pdb
+/Users/davidkim/Projects/GetMaxInGeneratedArray/GetMaxInGeneratedArray/obj/Debug/netcoreapp3.1/GetMaxInGeneratedArray.genruntimeconfig.cache

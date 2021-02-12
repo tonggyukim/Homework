@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/AddBinary/AddBinary/bin/Debug/netcoreapp3.1/AddBinary.deps.json
+/Users/davidkim/Projects/AddBinary/AddBinary/bin/Debug/netcoreapp3.1/AddBinary.runtimeconfig.json
+/Users/davidkim/Projects/AddBinary/AddBinary/bin/Debug/netcoreapp3.1/AddBinary.runtimeconfig.dev.json
+/Users/davidkim/Projects/AddBinary/AddBinary/bin/Debug/netcoreapp3.1/AddBinary.dll
+/Users/davidkim/Projects/AddBinary/AddBinary/bin/Debug/netcoreapp3.1/AddBinary.pdb
+/Users/davidkim/Projects/AddBinary/AddBinary/obj/Debug/netcoreapp3.1/AddBinary.csprojAssemblyReference.cache
+/Users/davidkim/Projects/AddBinary/AddBinary/obj/Debug/netcoreapp3.1/AddBinary.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/AddBinary/AddBinary/obj/Debug/netcoreapp3.1/AddBinary.AssemblyInfo.cs
+/Users/davidkim/Projects/AddBinary/AddBinary/obj/Debug/netcoreapp3.1/AddBinary.dll
+/Users/davidkim/Projects/AddBinary/AddBinary/obj/Debug/netcoreapp3.1/AddBinary.pdb
+/Users/davidkim/Projects/AddBinary/AddBinary/obj/Debug/netcoreapp3.1/AddBinary.genruntimeconfig.cache

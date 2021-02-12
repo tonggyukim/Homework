@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/HttpDownload/HttpDownload/obj/Debug/netcoreapp3.1/HttpDownload.csprojAssemblyReference.cache
+/Users/davidkim/Projects/HttpDownload/HttpDownload/obj/Debug/netcoreapp3.1/HttpDownload.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/HttpDownload/HttpDownload/obj/Debug/netcoreapp3.1/HttpDownload.AssemblyInfo.cs
+/Users/davidkim/Projects/HttpDownload/HttpDownload/bin/Debug/netcoreapp3.1/HttpDownload.deps.json
+/Users/davidkim/Projects/HttpDownload/HttpDownload/bin/Debug/netcoreapp3.1/HttpDownload.runtimeconfig.json
+/Users/davidkim/Projects/HttpDownload/HttpDownload/bin/Debug/netcoreapp3.1/HttpDownload.runtimeconfig.dev.json
+/Users/davidkim/Projects/HttpDownload/HttpDownload/bin/Debug/netcoreapp3.1/HttpDownload.dll
+/Users/davidkim/Projects/HttpDownload/HttpDownload/bin/Debug/netcoreapp3.1/HttpDownload.pdb
+/Users/davidkim/Projects/HttpDownload/HttpDownload/obj/Debug/netcoreapp3.1/HttpDownload.dll
+/Users/davidkim/Projects/HttpDownload/HttpDownload/obj/Debug/netcoreapp3.1/HttpDownload.pdb
+/Users/davidkim/Projects/HttpDownload/HttpDownload/obj/Debug/netcoreapp3.1/HttpDownload.genruntimeconfig.cache

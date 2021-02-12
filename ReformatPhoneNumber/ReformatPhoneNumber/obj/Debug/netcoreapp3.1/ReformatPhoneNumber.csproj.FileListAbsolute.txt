@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/bin/Debug/netcoreapp3.1/ReformatPhoneNumber.deps.json
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/bin/Debug/netcoreapp3.1/ReformatPhoneNumber.runtimeconfig.json
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/bin/Debug/netcoreapp3.1/ReformatPhoneNumber.runtimeconfig.dev.json
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/bin/Debug/netcoreapp3.1/ReformatPhoneNumber.dll
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/bin/Debug/netcoreapp3.1/ReformatPhoneNumber.pdb
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/obj/Debug/netcoreapp3.1/ReformatPhoneNumber.csprojAssemblyReference.cache
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/obj/Debug/netcoreapp3.1/ReformatPhoneNumber.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/obj/Debug/netcoreapp3.1/ReformatPhoneNumber.AssemblyInfo.cs
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/obj/Debug/netcoreapp3.1/ReformatPhoneNumber.dll
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/obj/Debug/netcoreapp3.1/ReformatPhoneNumber.pdb
+/Users/davidkim/Projects/ReformatPhoneNumber/ReformatPhoneNumber/obj/Debug/netcoreapp3.1/ReformatPhoneNumber.genruntimeconfig.cache

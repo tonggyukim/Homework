@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9091760B-40AE-455C-BE0D-8EE8DE20809B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddTwoNumbers/Program.cs">
+    <Files>
+      <File FileName="AddTwoNumbers/Program.cs" Line="40" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

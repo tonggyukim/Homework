@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/bin/Debug/netcoreapp3.1/RomanToInteger
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/bin/Debug/netcoreapp3.1/RomanToInteger.deps.json
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/bin/Debug/netcoreapp3.1/RomanToInteger.runtimeconfig.json
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/bin/Debug/netcoreapp3.1/RomanToInteger.runtimeconfig.dev.json
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/bin/Debug/netcoreapp3.1/RomanToInteger.dll
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/bin/Debug/netcoreapp3.1/RomanToInteger.pdb
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/obj/Debug/netcoreapp3.1/RomanToInteger.csprojAssemblyReference.cache
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/obj/Debug/netcoreapp3.1/RomanToInteger.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/obj/Debug/netcoreapp3.1/RomanToInteger.AssemblyInfo.cs
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/obj/Debug/netcoreapp3.1/RomanToInteger.dll
+/Users/davidkim/Projects/RomanToInteger/RomanToInteger/obj/Debug/netcoreapp3.1/RomanToInteger.pdb

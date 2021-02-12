@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/SortList/SortList/bin/Debug/netcoreapp3.1/SortList.deps.json
+/Users/davidkim/Projects/SortList/SortList/bin/Debug/netcoreapp3.1/SortList.runtimeconfig.json
+/Users/davidkim/Projects/SortList/SortList/bin/Debug/netcoreapp3.1/SortList.runtimeconfig.dev.json
+/Users/davidkim/Projects/SortList/SortList/bin/Debug/netcoreapp3.1/SortList.dll
+/Users/davidkim/Projects/SortList/SortList/bin/Debug/netcoreapp3.1/SortList.pdb
+/Users/davidkim/Projects/SortList/SortList/obj/Debug/netcoreapp3.1/SortList.csprojAssemblyReference.cache
+/Users/davidkim/Projects/SortList/SortList/obj/Debug/netcoreapp3.1/SortList.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/SortList/SortList/obj/Debug/netcoreapp3.1/SortList.AssemblyInfo.cs
+/Users/davidkim/Projects/SortList/SortList/obj/Debug/netcoreapp3.1/SortList.dll
+/Users/davidkim/Projects/SortList/SortList/obj/Debug/netcoreapp3.1/SortList.pdb
+/Users/davidkim/Projects/SortList/SortList/obj/Debug/netcoreapp3.1/SortList.genruntimeconfig.cache

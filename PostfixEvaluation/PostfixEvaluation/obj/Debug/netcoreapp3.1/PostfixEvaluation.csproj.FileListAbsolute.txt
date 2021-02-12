@@ -1,0 +1,11 @@
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/obj/Debug/netcoreapp3.1/PostfixEvaluation.csprojAssemblyReference.cache
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/obj/Debug/netcoreapp3.1/PostfixEvaluation.AssemblyInfoInputs.cache
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/obj/Debug/netcoreapp3.1/PostfixEvaluation.AssemblyInfo.cs
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/bin/Debug/netcoreapp3.1/PostfixEvaluation.deps.json
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/bin/Debug/netcoreapp3.1/PostfixEvaluation.runtimeconfig.json
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/bin/Debug/netcoreapp3.1/PostfixEvaluation.runtimeconfig.dev.json
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/bin/Debug/netcoreapp3.1/PostfixEvaluation.dll
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/bin/Debug/netcoreapp3.1/PostfixEvaluation.pdb
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/obj/Debug/netcoreapp3.1/PostfixEvaluation.dll
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/obj/Debug/netcoreapp3.1/PostfixEvaluation.pdb
+/Users/davidkim/Projects/PostfixEvaluation/PostfixEvaluation/obj/Debug/netcoreapp3.1/PostfixEvaluation.genruntimeconfig.cache

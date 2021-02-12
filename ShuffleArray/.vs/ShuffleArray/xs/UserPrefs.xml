@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1E5542FE-3D38-4253-BA81-25A2544551B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShuffleArray/Program.cs">
+    <Files>
+      <File FileName="ShuffleArray/Program.cs" Line="50" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShuffleArray" expanded="True">
+            <Node name="ShuffleArray" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShuffleArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
