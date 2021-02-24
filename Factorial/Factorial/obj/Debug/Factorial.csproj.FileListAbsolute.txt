@@ -1,5 +1,0 @@
-/Users/davidkim/Projects/Factorial/Factorial/bin/Debug/Factorial.exe
-/Users/davidkim/Projects/Factorial/Factorial/bin/Debug/Factorial.pdb
-/Users/davidkim/Projects/Factorial/Factorial/obj/Debug/Factorial.csprojAssemblyReference.cache
-/Users/davidkim/Projects/Factorial/Factorial/obj/Debug/Factorial.exe
-/Users/davidkim/Projects/Factorial/Factorial/obj/Debug/Factorial.pdb
